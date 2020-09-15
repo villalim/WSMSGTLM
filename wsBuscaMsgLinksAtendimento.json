@@ -1,0 +1,23 @@
+{
+   "ContatosJson":
+   [
+      {
+         "Nome":"Paciente 123",
+         "DDD": 31,
+         "Celular":985312519,
+         "Mensagem":"Inicie seu teleatendimento, no horário agendado 10:48.\nAcesse: https:tinyurl.com/yxeg8na9"
+      },
+            {
+         "Nome":"Paciente 456",
+         "DDD": 31,
+         "Celular":985312519,
+         "Mensagem":"Inicie seu teleatendimento, no horário agendado 10:48.\nAcesse: https:tinyurl.com/yxeg8na9"
+      },
+      {
+         "Nome":"Paciente 789",
+         "DDD": 31,
+         "Celular":985312519,
+         "Mensagem":"Inicie seu teleatendimento, no horário agendado 10:48.\nAcesse: https:tinyurl.com/yxeg8na9"
+      }
+   ]
+}
